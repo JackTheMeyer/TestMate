@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\Unit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntergrationTests", "IntergrationTests\IntergrationTests.csproj", "{8AB9D65B-14F3-4089-AB4A-7BC68D352BD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MateLibrary", "..\MateLibrary\MateLibrary\MateLibrary.csproj", "{B783F1CE-B632-4193-85FE-CBB67859209B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MateLibrary", "MateLibrary\MateLibrary.csproj", "{B783F1CE-B632-4193-85FE-CBB67859209B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
