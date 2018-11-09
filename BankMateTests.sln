@@ -5,8 +5,6 @@ VisualStudioVersion = 15.0.28010.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankApp", "BankApp\BankApp.csproj", "{CBDCB84D-5C22-4A68-AB17-DC98E61F9D24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntergrateUnits", "IntergrateUnits\IntergrateUnits.csproj", "{B7F86405-DF9B-4D48-BA33-3BC6861EDE57}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{656ECE1C-3E9E-4DC1-BDDE-B892289019BA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntergrationTests", "IntergrationTests\IntergrationTests.csproj", "{8AB9D65B-14F3-4089-AB4A-7BC68D352BD4}"
@@ -21,10 +19,6 @@ Global
 		{CBDCB84D-5C22-4A68-AB17-DC98E61F9D24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBDCB84D-5C22-4A68-AB17-DC98E61F9D24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBDCB84D-5C22-4A68-AB17-DC98E61F9D24}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B7F86405-DF9B-4D48-BA33-3BC6861EDE57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B7F86405-DF9B-4D48-BA33-3BC6861EDE57}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B7F86405-DF9B-4D48-BA33-3BC6861EDE57}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B7F86405-DF9B-4D48-BA33-3BC6861EDE57}.Release|Any CPU.Build.0 = Release|Any CPU
 		{656ECE1C-3E9E-4DC1-BDDE-B892289019BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{656ECE1C-3E9E-4DC1-BDDE-B892289019BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{656ECE1C-3E9E-4DC1-BDDE-B892289019BA}.Release|Any CPU.ActiveCfg = Release|Any CPU

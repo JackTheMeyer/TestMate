@@ -10,7 +10,7 @@ namespace BankMate
         [TestMethod]
         public void TestMethod1()
         {
-            Assert.AreEqual(Program.CreateMessage(), "Not Hello");
+            Assert.AreEqual(Program.CreateMessage(), "Hello World");
         }
     }
 }
