@@ -1,4 +1,5 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using System;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using BankMate;
 
 namespace BankMate
@@ -7,7 +8,7 @@ namespace BankMate
     public class UnitTest1
     {
         [TestMethod]
-        public void TestTransfer()
+        public void TestMethod1()
         {
             Assert.AreEqual(Program.CreateMessage(), "Hello World");
         }
